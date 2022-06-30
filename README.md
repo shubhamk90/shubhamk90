@@ -9,16 +9,17 @@
 - 🌱 I’m currently learning New Technologies
 - 🎶 Melophile 
 - 🌧️ Pluviophile
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
  <br>
  
- ## About Me
+# 💫 About Me :
 <p>I am Currently Pursuing My Bachelor's Degree in Computer Science and Engineering. I am a quick learner and love to explore new things in life and can deal with stressful situations with patience and efficiency.
 People Around me think I'm shy and introvert, but reality is i am very selective about people with whom i share my real self.
 </p>
 <br>
 
- ## 📌Connect With Me📌
+ ## 🌐 Socials
  <a href="https://www.linkedin.com/in/shubham-kumar-902691202/"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="mailto:sharmashubham52y@gmail.com"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
  <a href="https://www.instagram.com/urs_.shubham/"><img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a> 
