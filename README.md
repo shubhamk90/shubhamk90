@@ -38,6 +38,8 @@ People Around me think I'm shy and introvert, but reality is i am very selective
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
  </div>
 
+<br>
+<br>
 <div>
-https://github-readme-stats.vercel.app/api/top-langs/?Shubham Kumar={Shubham Kumar}
+https://github-readme-stats.vercel.app/api/top-langs/?shubhamk90={shubhamk90}
 
