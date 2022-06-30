@@ -1,5 +1,7 @@
 > # “Talk is cheap, Show me the code.”
 
+
+ <img align="Right" src="http://github-readme-streak-stats.herokuapp.com?user=shubhamk90&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">   
 <br> 
                         
 - 👋 Hey, I’m Shubham Kumar       
@@ -45,18 +47,6 @@ People Around me think I'm shy and introvert, but reality is i am very selective
 
  ![Shubham's Github stats](https://github-readme-stats.vercel.app/api?username=shubhamk90&show_icons=true&theme=tokyonight) <br> <br> <br>
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamk90&show_icons=true&theme=tokyonight)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
