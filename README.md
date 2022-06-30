@@ -37,3 +37,25 @@ People Around me think I'm shy and introvert, but reality is i am very selective
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
  </div>
+
+
+![image](https://user-images.githubusercontent.com/108300190/176661446-47ee599a-5a8f-43c1-b932-558d8dbb517a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
