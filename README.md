@@ -41,5 +41,5 @@ People Around me think I'm shy and introvert, but reality is i am very selective
 <br>
 <br>
 <div>
-https://github-readme-stats.vercel.app/api/top-langs/?shubhamk90={shubhamk90}
+https://github-readme-stats.vercel.app/api/top-langs/?shubhamk90
 
