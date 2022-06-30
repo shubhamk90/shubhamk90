@@ -11,7 +11,7 @@
  <br>
  
  ## About Me
-<p>I am Currently Pursuing My Bachelor's Degree in Computer Science and Engineering /* from Guru Nanak Dev University, Amritsar */.  I am a quick learner and love to explore new things in life and can deal with stressful situations with patience and efficiency.
+<p>I am Currently Pursuing My Bachelor's Degree in Computer Science and Engineering. I am a quick learner and love to explore new things in life and can deal with stressful situations with patience and efficiency.
 People Around me think I'm shy and introvert, but reality is i am very selective about people with whom i share my real self.
 </p>
 <br>
