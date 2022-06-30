@@ -1,8 +1,8 @@
 > # “Talk is cheap, Show me the code.”
 
 <br> 
-
-- 👋 Hey, I’m Shubham Kumar                               
+                        
+- 👋 Hey, I’m Shubham Kumar       
 - 👀 I’m interested in exploring Tech World
 - 🌱 I’m currently learning New Technologies
 - 🎶 Melophile 
@@ -24,7 +24,7 @@ People Around me think I'm shy and introvert, but reality is i am very selective
 <br>
 <br>
 <br>
-
+<br>
  
   
  ## Skill-Set🚀
@@ -41,8 +41,9 @@ People Around me think I'm shy and introvert, but reality is i am very selective
 
 <br>
 <br>
+<br>
 
- ![Shubham's Github stats](https://github-readme-stats.vercel.app/api?username=shubhamk90&show_icons=true&theme=tokyonight) <br> <br>
+ ![Shubham's Github stats](https://github-readme-stats.vercel.app/api?username=shubhamk90&show_icons=true&theme=tokyonight) <br> <br> <br>
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamk90&show_icons=true&theme=tokyonight)
 
 
