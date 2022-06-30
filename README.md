@@ -1,8 +1,8 @@
 > # “Talk is cheap, Show me the code.”
 <br>
 
+<img align="Right" src="http://github-readme-streak-stats.herokuapp.com?user=shubhamk90&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
 
- <img align="Right" src="http://github-readme-streak-stats.herokuapp.com?user=shubhamk90&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
  
 - 👋 Hey, I’m Shubham Kumar       
 - 👀 I’m interested in exploring Tech World
