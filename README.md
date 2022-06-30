@@ -26,9 +26,7 @@ People Around me think I'm shy and introvert, but reality is i am very selective
 <br>
 <br>
 <br>
-<br>
- 
-  
+
  ## Skill-Set🚀
  <div>
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> &nbsp;
