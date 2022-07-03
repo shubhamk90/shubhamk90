@@ -52,7 +52,7 @@
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamk90&show_icons=true&theme=tokyonight)
   <br> <br>
  <br>
-## <Visitor's Count>🧐
+## <Visitor's Count>
  ![VisitorCount](https://profile-counter.glitch.me/shubhamk90/count.svg) 
  <hr>
 
