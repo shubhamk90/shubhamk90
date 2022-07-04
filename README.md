@@ -49,8 +49,8 @@
 <br>
 
  ![Shubham's Github stats](https://github-readme-stats.vercel.app/api?username=shubhamk90&show_icons=true&theme=tokyonight) <br> <br> <br>
-
- <br>
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamk90&show_icons=true&theme=tokyonight)
+  <br> <br>
 ## <Visitor's Count>🤔	
  ![VisitorCount](https://profile-counter.glitch.me/shubhamk90/count.svg) 
  <hr>
