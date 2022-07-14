@@ -53,11 +53,5 @@
 ## <Visitor's Count>🤔	
  ![VisitorCount](https://profile-counter.glitch.me/shubhamk90/count.svg) 
  <hr>
- 
- <br>
- 
- ## <Profile Summary>	
- ![VisitorCount](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamk90&show_icons=true&theme=tokyonight)
-
 
 
